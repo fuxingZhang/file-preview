@@ -19,6 +19,7 @@
 
 ## 如何使用
 
+``` bash
 # 使用的mysql数据库，在根目录创建mysql的配置文件  .env
 DB_HOST=localhost
 DB_PORT=3306
